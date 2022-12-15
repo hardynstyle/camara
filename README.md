@@ -1,2 +1,1 @@
-# camara
-org
+# pdf-and-handwriting-reader
